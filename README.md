@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Irina</h1>
 <h3 align="center">A passionate UX designer from Bulgaria</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irinaspasova" alt="irinaspasova" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irinaspasova" alt="irinaspasova" /></a> </p>-->
 
 - 🔭 I’m currently working on [Presentation](https://github.com/IrinaWorkspace/Presentation)
 
