@@ -25,6 +25,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irinaspasova&" alt="irinaspasova" /></p>
 
+<p>{office_quote}</p>
+
+<p>{office_character}</p>
+
+Check back at the top of the hour for a new quote!
 
 <!--
 **IrinaSpasova/IrinaSpasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
