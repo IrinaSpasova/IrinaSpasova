@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Irina</h1>
 <h3 align="center">A passionate UX designer from Bulgaria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irinaspasova&label=Profile%20views&color=0e75b6&style=flat" alt="irinaspasova" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irinaspasova" alt="irinaspasova" /></a> </p>
+
+- 🔭 I’m currently working on [Presentation](https://github.com/IrinaWorkspace/Presentation)
 
 - 🌱 I’m currently learning **React**
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/irina-spasova-4208b120a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irina-spasova-4208b120a" height="30" width="40" /></a>
 <a href="https://www.behance.net/irinaspasova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="irinaspasova" height="30" width="40" /></a>
 </p>
 
@@ -24,8 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irinaspasova&" alt="irinaspasova" /></p>
 
-
-### Hi there 👋
 
 <!--
 **IrinaSpasova/IrinaSpasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
